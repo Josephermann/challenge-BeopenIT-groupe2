@@ -1,0 +1,5 @@
+mlflow == 1.11.0
+scikit_learn == 0.23.2
+boto3 == 1.15.16
+prompt-toolkit==1.0.15
+awscli == 1.18.157
